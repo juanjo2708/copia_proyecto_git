@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 document2.txt, branck master, modifico el fitxer
+=======
+Estic a la branca branch1 i modifico el fitxer document2.txt
+
+>>>>>>> branch1
